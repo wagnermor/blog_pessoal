@@ -14,7 +14,9 @@ build/
 .settings
 .springBeans
 .sts4-cache
-target/
+pom.properties
+/target/classes/
+.class
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
